@@ -7,4 +7,6 @@ Cupboard-ext: Extensions vor cupboard for my projects.
 repository manage:
 https://jitpack.io/#drdrej/drafts-db-cupboard
 
-https://jitpack.io/#drdrej/drafts-core/0.0.1
+https://jitpack.io/#drdrej/drafts-core/
+
+https://jitpack.io/#drdrej/drafts-spacerx/
